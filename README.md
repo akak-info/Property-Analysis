@@ -8,3 +8,6 @@ This project is totally about property analysis. If you you visit this city all 
  ----Ratings<br />
  ----Rooms & Bed available<br />
  ----Reviews<br />
+ 
+ # my project look like
+![dashbord_img](https://user-images.githubusercontent.com/90344769/185641706-ea1aa36d-3312-4883-bd3c-638a2729ce59.PNG)
